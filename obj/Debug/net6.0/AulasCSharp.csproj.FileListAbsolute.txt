@@ -1,0 +1,68 @@
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\bin\Debug\net6.0\AulasCSharp.exe
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\bin\Debug\net6.0\AulasCSharp.deps.json
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\bin\Debug\net6.0\AulasCSharp.runtimeconfig.json
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\bin\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\bin\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfo.cs
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\refint\AulasCSharp.dll
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\AulasCSharp.genruntimeconfig.cache
+C:\Users\marco\source\repos\CursoProgramacaoCSharp\AulasCSharp\obj\Debug\net6.0\ref\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.exe
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.deps.json
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.runtimeconfig.json
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfo.cs
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\refint\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.genruntimeconfig.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\ref\AulasCSharp.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.exe
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.deps.json
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.runtimeconfig.json
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfo.cs
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\refint\AulasCSharp.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.genruntimeconfig.cache
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\ref\AulasCSharp.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\ProjetoSecundario.dll
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\ProjetoSecundario.pdb
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CopyComplete
+C:\Users\marco\Downloads\CursoProgramacaoCSharp (2)\AulasCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.exe
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.deps.json
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.runtimeconfig.json
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\ProjetoSecundario.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\bin\Debug\net6.0\ProjetoSecundario.pdb
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.AssemblyInfo.cs
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.csproj.CopyComplete
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\refint\AulasCSharp.dll
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.pdb
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\AulasCSharp.genruntimeconfig.cache
+C:\Users\marco.angelo\Downloads\CursoProgramacaoCSharp (2) (1)\AulasCSharp\obj\Debug\net6.0\ref\AulasCSharp.dll
